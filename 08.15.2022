@@ -240,5 +240,3 @@ GROUP BY
       member_casual
 ORDER BY
       hour;
-      
-## average ride length by member type
